@@ -277,6 +277,7 @@
                 "sha256:141ba561a17659cda00cf74e7c7cf6103bab4550acad76a46f893339de63b1df",
                 "sha256:5cdb6aeea8ba9109181cf9f149c8a3ae1430ff7e44506a8f866af8a98ca46301"
             ],
+
             "markers": "python_version >= '3.7' and python_full_version < '3.11.0'",
             "version": "==2.0.1"
         },
